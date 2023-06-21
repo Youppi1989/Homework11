@@ -1,0 +1,8 @@
+let firstName = prompt("Введите ваше имя:");
+let lastName = prompt("Введите вашу фамилию:");
+
+let greeting = "Привет, " + firstName + " " + lastName + "!";
+alert(greeting);
+
+
+
